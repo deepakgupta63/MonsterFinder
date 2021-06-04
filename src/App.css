@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  font-family: "Permanent Marker";
+  font-size: 70px;
+  color: darkgoldenrod;
+}
